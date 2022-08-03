@@ -5,6 +5,5 @@ numpy
 yfinance
 scipy
 requests
-os
 sys
 subprocess
