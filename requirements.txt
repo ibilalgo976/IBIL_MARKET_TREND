@@ -2,7 +2,7 @@ streamlit
 pandas
 matplotlib
 numpy
-talib-binary==0.4.19
-tblib==1.4.0
+talib-binary
+tblib
 yfinance
 scipy
