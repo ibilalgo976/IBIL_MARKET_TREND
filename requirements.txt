@@ -2,6 +2,6 @@ streamlit
 pandas
 matplotlib
 numpy
-tblib
+TA-Lib
 yfinance
 scipy
