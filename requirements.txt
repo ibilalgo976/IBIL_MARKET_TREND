@@ -2,6 +2,7 @@ streamlit
 pandas
 matplotlib
 numpy
+talib-binary
 tblib
 yfinance
 scipy
