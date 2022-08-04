@@ -35,7 +35,7 @@ from ctypes import *
 
 lib = CDLL("/home/appuser/lib/libta_lib.so.0")
 # import library
-import talib
+import ta-lib as ta
 
 
 
