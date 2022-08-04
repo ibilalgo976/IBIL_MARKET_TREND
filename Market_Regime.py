@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 import yfinance as yf
-import talib as ta
+#import talib as ta
 import streamlit as st
 from scipy.signal import argrelextrema
 
